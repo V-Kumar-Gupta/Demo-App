@@ -7,7 +7,7 @@ public class DuplicArray{
       for (int j=i+1; j<arr.length; j++)
       {
          if(arr[i]==arr[j])
-         System.out.println(arr[j]);
+         System.out.println("Hi"+arr[j]);
       }
     }
     }
